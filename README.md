@@ -1,2 +1,3 @@
-# prime-api-service-g7q1
-Automated issue comment bot repository
+# Prime Api Service G7Q1
+
+Automated issue comment bot repository.
